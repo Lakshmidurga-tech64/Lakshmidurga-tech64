@@ -1,9 +1,11 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Lakshmi&fontSize=40&animation=fadeIn)
+
 # 👋 Hi, I'm Lakshmi
 
 ### 🤖 Aspiring AI Engineer | B.Tech Student
 
 I'm currently learning and practicing programming step by step.
-I am interested in Artificial Intelligence and Machine Learning,
+I'm interested in Artificial Intelligence and Machine Learning,
 and I'm working on improving my coding logic and problem-solving skills.
 
 > 🌱 Still learning, still practicing, and improving every day.
@@ -13,50 +15,46 @@ and I'm working on improving my coding logic and problem-solving skills.
 ## 🧠 About Me
 
 - 🎓 B.Tech Student
-- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🤖 Interested in AI & Machine Learning
 - 🐍 Currently learning Python
-- 💻 Practicing programming and coding logic
-- 🧩 Improving problem-solving skills
-- 📚 Learning step by step through practice
-- 🚀 My goal is to become an AI Engineer
+- 🧩 Practicing programming logic
+- 💻 Improving problem-solving skills
+- 🚀 Working towards becoming an AI Engineer
 
 ---
 
 ## 🛠️ Skills I'm Practicing
 
-- 🐍 Python
-- 💻 C
-- 🐙 Git & GitHub
-- 🧩 Problem Solving
-- 🧠 Programming Logic
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📚 Currently Learning
 
-- Python
-- Data Structures & Algorithms
-- Artificial Intelligence — Basics
-- Machine Learning — Basics
-- Git & GitHub
-- Building small coding projects
+🐍 **Python**  
+⬇️  
+🧩 **Problem Solving & Data Structures**  
+⬇️  
+🤖 **Machine Learning Basics**  
+⬇️  
+🧠 **Deep Learning**  
+⬇️  
+🚀 **AI Applications**
 
 ---
 
 ## 🚀 My Practice Projects
 
-These are small projects I have built while learning and practicing.
+These are small projects I have built while learning.
 
-### 🧮 Simple Calculator
-A beginner Python calculator project created to practice
-basic programming concepts and logic.
-
-### 🎯 Simple Guess Game
-A small Python guessing game created while practicing
-conditions, loops, and programming logic.
-
-### 🧪 More Small Practice Projects
-I am continuously building small programs as I learn new concepts.
+| Project | Description |
+|---|---|
+| 🧮 Simple Calculator | Beginner Python calculator |
+| 🎯 Simple Guess Game | Python guessing game |
+| 🧪 More Practice Projects | Small programs I'm building while learning |
 
 ---
 
@@ -68,21 +66,17 @@ a skilled AI Engineer.
 
 ---
 
-## 🌱 My Learning Journey
+## 💡 My Learning Philosophy
 
-```text
-Programming Basics
-       ↓
-Python
-       ↓
-Problem Solving
-       ↓
-Data Structures
-       ↓
-Machine Learning
-       ↓
-Deep Learning
-       ↓
-AI Applications
-       ↓
-AI Engineer 🚀
+> **Practice makes progress.**
+
+I believe learning happens by practicing, making mistakes,
+understanding them, and trying again.
+
+---
+
+⭐ Thanks for visiting my profile!
+
+🌱 I'm just getting started and learning every day.
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
