@@ -50,7 +50,7 @@ and I'm working on improving my coding logic and problem-solving skills.
 
 These are small projects I have built while learning.
 
-| Project | Description || Budget App | A simple budgeting app I built. [Live Demo](https://radiant-pudding-111282.netlify.app) |
+| Project | Description || Budget App | A simple budgeting app I built. 
 |---|---|
 | 🧮 Simple Calculator | Beginner Python calculator |
 | 🎯 Simple Guess Game | Python guessing game |
