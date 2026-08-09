@@ -50,7 +50,26 @@ and I'm working on improving my coding logic and problem-solving skills.
 
 These are small projects I have built while learning.
 
-| Project | Description || Budget App | A simple budgeting app I built. 
+| Project | Description || Budget App | A simple budgeting app I built. Daily Ledger
+
+A simple personal expense-tracking web app that helps users record their daily income and expenses and understand their spending patterns.
+
+🔗 "Live Demo" (https://beamish-granita-522078.netlify.app/)
+
+Features
+
+- 📝 Add daily income and expenses
+- 📊 Track spending over time
+- 🔐 Personal PIN lock
+- 👤 Single-user data
+- 📱 Simple and mobile-friendly interface
+- 💾 Keep your financial records organized
+
+Purpose
+
+Daily Ledger is designed to help a common person keep an eye on where their money is going by recording everyday transactions and reviewing their spending.
+
+Built with: HTML, CSS, JavaScript, and Netlify
 |---|---|
 | 🧮 Simple Calculator | Beginner Python calculator |
 | 🎯 Simple Guess Game | Python guessing game |
